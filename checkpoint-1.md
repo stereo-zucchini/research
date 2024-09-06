@@ -1,7 +1,7 @@
 # Стереокабачки - чекпоинт 1
 ## Задача: 
 Стереозрение по двум камерам для определения геометрии объекта  
-![](https://i.ibb.co/NLJhgL9/Pasted-image-20240905193324.png)
+<img width="792" alt="image" src="https://github.com/user-attachments/assets/f152cee4-5afb-4c9e-a23c-5cadc47013c2">
 
 ## Команда
 
@@ -23,9 +23,9 @@ http://vision.deis.unibo.it/~smatt/Seminars/StereoVision.pdf
 ## Потенциальное техническое решение:
 
 1. Нам требуется сделать feature matching между двумя изображениями  
-![](https://i.ibb.co/0VXyBDs/Pasted-image-20240905193848.png)
+![image](https://github.com/user-attachments/assets/95417a8f-d4d1-4811-9184-1c615892a42a)
 2. Затем используя информацию о положении объекта и камер рассчитываем дистанцию до замэтченных точек  
-![](https://i.ibb.co/PwXZ1Df/Pasted-image-20240905193437.png)
+![image](https://github.com/user-attachments/assets/18831435-0613-4297-83dd-1078766fbe29)
 
 ## Продуктовое решение
 1. Модель для построения карты глубины
